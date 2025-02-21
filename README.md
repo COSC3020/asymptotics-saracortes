@@ -19,3 +19,5 @@ I have done the first one for you, as an example.
 | $f(n)= 4n^5 $ | 2 | $g(n)= 5n^4$ |
 | $f(n) = 10^{256}$ | 1 | $g(n) = \log n$ |
 | $f(n)= n^2 $ | 1 | $g(n)= 2^n$ |
+
+I certify that I have listed all sources used to complete this exercise, including the use of any Large Language Models. All of the work is my own, except where stated otherwise. I am aware that plagiarism carries severe penalties and that if plagiarism is suspected, charges may be filed against me without prior notice.
